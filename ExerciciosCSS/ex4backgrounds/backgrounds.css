@@ -1,0 +1,39 @@
+div {
+    width: 200px;
+    height: 100px;
+    margin: 10px;
+    border: 5px black dashed;
+}
+
+#div1{
+    background-color: blueviolet;
+}
+
+#div2{
+    background-color: #c1a4cd;
+    background-clip: padding-box;
+}
+
+#div3{
+    background-image: url(https://uvn-brightspot.s3.amazonaws.com/assets/vixpt/bbr/emoticon-ok.jpg);
+    background-repeat: no-repeat;
+}
+
+#div4{
+    background-image: url(https://i.pinimg.com/474x/81/a9/f3/81a9f3505135283e1cfe699fafba2ae3.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#div5{
+    background-image: url(https://conteudo.imguol.com.br/c/noticias/1e/2021/07/15/novos-emojis-serao-lancados-em-2021-1626380842732_v2_900x506.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+body{
+    background-image: url(https://i.ytimg.com/vi/xg8OUydqTjU/maxresdefault.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed; /*deixa preso o background da imagem do joinha*/
+    background-position: top center;
+}
